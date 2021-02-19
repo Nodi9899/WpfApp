@@ -16,11 +16,11 @@ using System.Windows.Shapes;
 namespace WpfApp
 {
     /// <summary>
-    /// Logika interakcji dla klasy MainWindow.xaml
+    /// Interaction logic for HomeLibrary.xaml
     /// </summary>
-    public partial class MainWindow : NavigationWindow
+    public partial class HomeLibrary : Page
     {
-        public MainWindow()
+        public HomeLibrary()
         {
             InitializeComponent();
         }
